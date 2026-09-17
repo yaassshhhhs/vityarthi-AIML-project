@@ -60,7 +60,7 @@ badminton_shot_predictor/
 ### 1. Clone / Download the Repository
 
 ```bash
-git clone https://github.com/daksh25BAI10927/badminton-shot-predictor.git
+git clone https://github.com/yaassshhhhs/vityarthi-AIML-project.git
 cd badminton-shot-predictor
 ```
 
