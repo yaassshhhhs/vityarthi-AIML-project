@@ -156,7 +156,9 @@ jupyter
 
 ## 👨‍💻 Author
 **Name - Yash Pratap Singh**
+--
 **Reg no. - 25MIM10193**
+--
 AI/ML Course 
 
 ---
