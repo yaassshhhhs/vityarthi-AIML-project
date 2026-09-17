@@ -160,6 +160,8 @@ jupyter
 **Reg no. - 25MIM10193**
 --
 AI/ML Course 
+--
+**THANK YOU**
 
 ---
 
